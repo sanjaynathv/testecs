@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: testecs
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: AG09945
+Implementation-Vendor-Id: com.test
+Build-Jdk: 1.8.0_45
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/testecs
+Created-By: Maven Integration for Eclipse
+
